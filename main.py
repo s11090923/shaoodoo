@@ -1,1 +1,1 @@
-print("woshi yige xiaomao")
+print("我是小猫")
